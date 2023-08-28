@@ -20,7 +20,7 @@ Sorting algorithms are essential tools in the field of computer science, allowin
 To install SortingAlgoLib, follow these steps:
  Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/SortingAlgoLib.git
+   git clone https://github.com/jiya9113/SortingAlgoLib.git
    ```
 
 ## Usage
