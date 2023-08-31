@@ -44,7 +44,6 @@ The library currently includes implementations of the following sorting algorith
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-- Heap Sort
 
 ## Contributing
 
