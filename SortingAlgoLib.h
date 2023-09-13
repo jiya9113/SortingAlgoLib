@@ -1,7 +1,10 @@
+int takeInput(int arr[], int n);
+void printArray(int arr[], int n);
 void bubbleSort(int arr[], int n);
 void merge(int arr[], int start, int mid, int end);
 void mergeSort(int arr[], int start, int end);
-int partition(int arr[], int start, int end);
-void quickSort(int arr[], int start, int end);
+int endPartition(int arr[], int start, int end);
+int startPartition(int arr[], int start, int end);
+void quickSort(int arr[], int start, int end, int type);
 void insertionSort(int arr[], int n);
 void selectionSort(int arr[],int n);
